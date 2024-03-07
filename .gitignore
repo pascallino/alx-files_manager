@@ -1,2 +1,4 @@
-# Google App Engine generated folder
-appengine-generated/
+babel.config
+node_modules
+package-lock.json
+package.json
